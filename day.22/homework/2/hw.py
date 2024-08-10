@@ -1,2 +1,2 @@
-def number(num1, num2):
-    return num1 * num2
+def multiply_integers(a, b):
+    return a * b

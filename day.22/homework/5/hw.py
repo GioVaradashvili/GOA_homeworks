@@ -1,2 +1,4 @@
-def is_palindrome(s):
-    return s == s[::-1]
+txt = "wow."
+
+x = txt.endswith(-1)
+x = txt.endswith(".")

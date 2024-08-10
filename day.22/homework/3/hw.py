@@ -1,3 +1,2 @@
-def string(s):
+def string_length(s):
     return len(s)
-print(len)

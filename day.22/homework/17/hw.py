@@ -1,2 +1,2 @@
-def smallest_number(numbers):
+def find_min(numbers):
     return min(numbers)
