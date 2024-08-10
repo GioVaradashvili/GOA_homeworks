@@ -1,3 +1,4 @@
 import math
-def gcd(a, b):
+def gacdi(a, b):
     return math.gcd(a, b)
+print(gacdi)
